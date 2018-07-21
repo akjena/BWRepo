@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jndi:namedResource xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ftlsr="http://ns.tibco.com/bw/sharedresource/ftl" xmlns:jndi="http://xsd.tns.tibco.com/amf/models/sharedresource/jndi" xmi:id="_7ATTwTlsEeegw4y-GQHkTA" name="tradestockpublisher.FTLRealmServerPublisherConnection" type="ftlsr:FTLRealmServerConnection">
+  <jndi:configuration xsi:type="ftlsr:FTLRealmServerConnection" xmi:id="_7ATTwjlsEeegw4y-GQHkTA" applicationName="tradepublisher" username="" password="#!JDqZMr/ZoazGT6H+CsIZrQ==">
+    <substitutionBindings xmi:id="_awnxIHu5Eeisct5Qc-EXaQ" template="realmServerURL" propName="FTL_REALMSERVER_URL"/>
+  </jndi:configuration>
+</jndi:namedResource>
